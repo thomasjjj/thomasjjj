@@ -2,6 +2,8 @@
 
 I am an Open Source Intelligence (OSINT) investigator, trainer, and researcher with experience spanning conflict monitoring, war crimes documentation, geospatial analysis, and digital verification. My work has included building large-scale OSINT investigations for accountability, supporting legal proceedings with open-source evidence, and leading training for government, law enforcement, and international organisations. I have spoken at international conferences and workshops on the role of OSINT in human rights, security, and conflict research, and have designed academic modules and professional training programs on digital investigations. My projects have involved applying GEOINT, IMINT, and social media analysis to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
 
+Currently, my focus is on large-scale collection and analysis of online information streams, particularly high-volume sources such as Telegram messages. I am exploring how AI can be integrated to offload the strain of analysis while maintaining a robust human-in-the-loop process. This includes developing workflows where AI supports triaging, detecting threats and violence, and extracting key entities, enabling analysts to concentrate on higher-order reasoning, verification, and contextual understanding. My aim is to combine the efficiency of automation with the reliability and accountability of human judgement.
+
 <!--
 **thomasjjj/thomasjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
