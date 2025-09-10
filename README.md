@@ -12,7 +12,7 @@ I have delivered **training for government, law enforcement, and international o
 
 My projects have involved applying GEOINT, IMINT, and social media analysis to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
 
-My current projects explore:
+### My current research includes:
 - **AI-assisted triaging** of messages and media  
 - **Threat and violence detection** using machine learning  
 - **Entity extraction & relationship mapping** for investigative workflows  
