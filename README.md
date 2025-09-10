@@ -4,6 +4,8 @@ I am an Open Source Intelligence (OSINT) investigator, trainer, and researcher w
 
 Currently, my focus is on large-scale collection and analysis of online information streams, particularly high-volume sources such as Telegram messages. I am exploring how AI can be integrated to offload the strain of analysis while maintaining a robust human-in-the-loop process. This includes developing workflows where AI supports triaging, detecting threats and violence, and extracting key entities, enabling analysts to concentrate on higher-order reasoning, verification, and contextual understanding. My aim is to combine the efficiency of automation with the reliability and accountability of human judgement.
 
+I support eco-concious use of AI and encourage people to be mindful of the environmental impact of any code that uses high-compute resources.
+
 <!--
 **thomasjjj/thomasjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
