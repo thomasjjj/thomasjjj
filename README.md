@@ -1,10 +1,30 @@
 ## Open Source Intelligence Analyst
 
-I am an Open Source Intelligence (OSINT) investigator, trainer, and researcher with experience spanning conflict monitoring, war crimes documentation, geospatial analysis, and digital verification. My work has included building large-scale OSINT investigations for accountability, supporting legal proceedings with open-source evidence, and leading training for government, law enforcement, and international organisations. I have spoken at international conferences and workshops on the role of OSINT in human rights, security, and conflict research, and have designed academic modules and professional training programs on digital investigations. My projects have involved applying GEOINT, IMINT, and social media analysis to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
+```Senior OSINT Investigator & Trainer | Conflict Monitoring, Digital Verification, and AI-Assisted Analysis```
 
-Currently, my focus is on large-scale collection and analysis of online information streams, particularly high-volume sources such as Telegram messages. I am exploring how AI can be integrated to offload the strain of analysis while maintaining a robust human-in-the-loop process. This includes developing workflows where AI supports triaging, detecting threats and violence, and extracting key entities, enabling analysts to concentrate on higher-order reasoning, verification, and contextual understanding. My aim is to combine the efficiency of automation with the reliability and accountability of human judgement.
+I am an **Open Source Intelligence (OSINT) investigator, trainer, and researcher** with experience in:
+- Conflict monitoring & war crimes documentation  
+- Geospatial & imagery intelligence (GEOINT/IMINT)  
+- Digital verification & disinformation analysis  
+- Building large-scale OSINT investigations for accountability and legal proceedings
 
-I support eco-conscious use of AI and encourage people to be mindful of the environmental impact of any code that uses high-compute resources.
+I have delivered **training for government, law enforcement, and international organisations**, spoken at global conferences, and designed both **academic modules** and **professional programs** on digital investigations.
+
+My projects have involved applying GEOINT, IMINT, and social media analysis to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
+
+My current projects explore:
+- **AI-assisted triaging** of messages and media  
+- **Threat and violence detection** using machine learning  
+- **Entity extraction & relationship mapping** for investigative workflows  
+- **Human-in-the-loop verification**, ensuring automation supports — not replaces — analyst judgement
+
+### Interests
+- War crimes investigations
+- Counter-Disinformation and Information Operations 
+- Use of AI for *augmenting* existing capabilities and workers, **not** replacing them.
+
+### 🌱 Values
+I support **eco-conscious AI**: optimising workflows to reduce compute load, and encouraging mindful use of high-resource code in digital investigations.  
 
 <!--
 **thomasjjj/thomasjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
