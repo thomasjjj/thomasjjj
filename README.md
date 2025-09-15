@@ -19,6 +19,7 @@ My projects have involved applying GEOINT, IMINT, and social media analysis to i
 - **Threat and violence detection** using machine learning  
 - **Entity extraction & relationship mapping** for investigative workflows  
 - **Human-in-the-loop verification**, ensuring automation supports — not replaces — analyst judgement
+- **Automatic trafficking detection** using textual indicators 
 
 ### Interests
 - War crimes investigations
