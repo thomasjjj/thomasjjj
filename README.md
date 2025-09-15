@@ -8,8 +8,6 @@ I am an **Open Source Intelligence (OSINT) investigator, trainer, and researcher
 - Digital verification & disinformation analysis  
 - Building large-scale OSINT investigations for accountability and legal proceedings
 
-![image](https://github.com/user-attachments/assets/f3d4b32e-f3b6-413c-bc7d-ea90cc8367fc)
-
 I have delivered **training for government, law enforcement, and international organisations**, spoken at global conferences, and designed both **academic modules** and **professional programs** on digital investigations.
 
 My projects have involved applying GEOINT, IMINT, and social media analysis to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
