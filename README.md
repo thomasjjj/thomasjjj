@@ -10,7 +10,7 @@ I am an **Open Source Intelligence (OSINT) investigator, trainer, and researcher
 
 I have delivered **training for government, law enforcement, and international organisations**, spoken at global conferences, and designed both **academic modules** and **professional programs** on digital investigations.
 
-My projects have involved applying GEOINT, IMINT, and social media analysis to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
+My projects have involved applying GEOINT, IMINT, and SOCMINT to issues ranging from armed conflict and arms diversion to human rights abuses and disinformation, always with a focus on rigorous verification and ethical practice.
 
 ### My current research includes:
 - **AI-assisted triaging** of messages and media  
