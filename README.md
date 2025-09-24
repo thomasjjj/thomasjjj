@@ -1,6 +1,6 @@
 ## Senior OSINT Investigator & Trainer
 
-```Open Source Intelligence Analyst| Conflict Monitoring, Digital Verification, and AI-Assisted Analysis```
+```Open Source Intelligence Analyst```, ```Conflict Monitoring```, ```Digital Verification```, and ```AI-Assisted Analysis```
 
 I am an **Open Source Intelligence (OSINT) investigator, trainer, and researcher** with experience in:
 - Conflict monitoring & war crimes documentation  
